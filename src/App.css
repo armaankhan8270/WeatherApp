@@ -18,14 +18,14 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.44);
     margin-top: 100px;
       padding: 10px;
       height: 700px;
-      -webkit-border-radius: 40px;
+      /* -webkit-border-radius: 40px;
       -moz-border-radius: 40px;
       border-radius: 40px;
 border-radius: 40px;
 -webkit-box-shadow: 7px 13px 4px 0px #f3ecec; 
 box-shadow: 7px 13px 4px 0px #ada4a4;
-background: #dfdbdd;
-background-image: url('img3.png');
+background: #dfdbdd; */
+/* background-image: url('img3.png'); */
 
 }
 body#tinymce {
@@ -46,20 +46,15 @@ background: #514B4F
       width: 400px;
       font-size: 60px;
       font-weight: 900px;
-      margin: auto;
-      padding-top: 60px;
       
 
-background-image: url(img3.png);
--webkit-border-radius: 40px;
-      -moz-border-radius: 40px;
-      border-radius: 40px;
-border-radius: 40px;
--webkit-box-shadow: 7px 13px 4px 0px #0A0909; 
-box-shadow: 7px 13px 4px 0px #fafafa;
-background: #000000;
+/* background-image: url(img3.png); */
+
 
   }
   body{
-      background-image: url("img3.png");
+      /* background-image: url("img3.png"); */
+  }
+  div{
+    font-family: 'Lobster', cursive;
   }
